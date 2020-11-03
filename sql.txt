@@ -1,0 +1,19 @@
+Microsoft Windows [Version 10.0.18362.1082]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Divya\Desktop\Mysqldatabase>go run main.go
+2020/10/31 21:55:45 Server started on: http://localhost:8080
+
+C:\Users\Divya\Desktop\Mysqldatabase>go run main.go
+2020/10/31 22:16:47 Server started on: http://localhost:8080
+2020/10/31 22:18:42 INSERT: Name: divya | City: madhanapalle
+2020/10/31 22:18:53 UPDATE: Name: divya | City: madhanapalle
+2020/10/31 22:19:10 UPDATE: Name: divya | City: madhanapalle
+2020/10/31 22:19:14 DELETE
+2020/10/31 22:19:50 INSERT: Name: babu | City: galiveedu
+2020/10/31 22:20:05 UPDATE: Name: babu | City: chennai
+2020/10/31 22:20:09 DELETE
+2020/10/31 22:20:44 INSERT: Name: mamatha | City: bngl
+2020/10/31 22:21:12 INSERT: Name: divya avula | City: nooliveedu
+2020/10/31 22:21:26 INSERT: Name: venkat | City: kadapa
+2020/10/31 22:22:22 INSERT: Name: madhan reddy | City: hyd
